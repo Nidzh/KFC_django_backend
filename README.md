@@ -1,4 +1,4 @@
-# KFC_HLP_BOT
+# KFC_django_backend
 
 Backend, написанный для чат-бота благотварительного фонда KFC-Открывая горизонты.
 Реализован на Django + DRF
